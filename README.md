@@ -1,5 +1,5 @@
 # How to get users location data:
-## Country, Continent, City, ...
+## Country, Continent, City, Region,  ...
 
 
 Click on the image to watch the video tutorial:
